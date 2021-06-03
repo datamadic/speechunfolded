@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Hello, I'm Nadia!
+content: >
+  # I believe that ALL kids can talk
+
+  I truly do. No matter the starting point. By working together as a team,
+  we will making meaningful progress and get your child talking!
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/nadiacover.jpeg
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
